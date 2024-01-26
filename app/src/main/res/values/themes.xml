@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="TODO">
+        <!-- Primary brand color. -->
+        <item name="android:colorPrimary">@color/odisee_primary</item>
+        <item name="android:textColorPrimaryInverse">@color/odisee_accent</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/odisee_primary</item>
+        <!-- Secondary brand color. -->
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/odisee_primary_dark</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

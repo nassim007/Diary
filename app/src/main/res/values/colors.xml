@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="odisee_primary">#3D78A5</color>
+    <color name="odisee_primary_dark">#205277</color>
+    <color name="odisee_accent">#FFD600</color>
+    <!-- Other colors -->
+</resources>
